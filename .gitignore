@@ -1,0 +1,30 @@
+# مجلدات
+node_modules/
+dist/
+build/
+coverage/
+
+# ملفات البيئة
+.env
+.env.local
+.env.development
+.env.production
+
+# ملفات النظام
+.DS_Store
+
+# ملفات السجلات
+*.log
+logs/
+
+# إعدادات IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ملفات نظام التشغيل
+Thumbs.db
